@@ -1,0 +1,16 @@
+.container, .main-container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  .main-container {
+    flex-direction: column;
+    width: 70%;
+    margin: 0 auto;
+    gap: 20px;
+  }
+  
+  .form-content{
+    display: flex;
+    gap: 20px;
+  }

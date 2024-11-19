@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    align-items: center;
+    grid-gap: 12px;
+  }
+  
+
+  .status{
+    display: inline-block;
+    border-radius: 20px;
+    padding: 5px 10px;
+  }
+
+  .action {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+  }
+  
